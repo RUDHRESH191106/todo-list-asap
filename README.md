@@ -70,4 +70,4 @@ The To-Do List API is a RESTful backend service designed to manage tasks efficie
 
 - Add task categorization and priorities.
 
-- Develop a front-end for an interactive UI experience.
+- Develop a front-end for an interactive UI experience
