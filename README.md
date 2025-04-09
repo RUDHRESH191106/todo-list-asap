@@ -1,3 +1,6 @@
+## FRONTEND DEPLOYMENT LINK - "https://todo-list-asap.vercel.app/"
+
+
 **Project Overview**
 
 The To-Do List API is a RESTful backend service designed to manage tasks efficiently. Users can create, retrieve, update, and delete tasks while leveraging authentication to ensure security and task ownership. This project helps in understanding backend development fundamentals, including API design, database management, and authentication implementation.
@@ -71,3 +74,4 @@ The To-Do List API is a RESTful backend service designed to manage tasks efficie
 - Add task categorization and priorities.
 
 - Develop a front-end for an interactive UI experience
+

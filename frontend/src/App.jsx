@@ -1,5 +1,5 @@
 import './App.css'
-import Home from './Home'
+import  Home from "./components/Home"
 
 function App() {
   return (
@@ -10,3 +10,5 @@ function App() {
 }
 
 export default App
+
+
