@@ -3,12 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "serve": "vite preview"
-}
-,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
   "dependencies": {
     "axios": "^1.8.4",
     "react": "^19.0.0",
@@ -27,6 +26,3 @@
     "vite": "^6.1.0"
   }
 }
-
-
-
