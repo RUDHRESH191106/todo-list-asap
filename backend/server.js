@@ -1,7 +1,8 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
-const TodoModel = require('./TodoModel'); // Import the model
+const TodoModel = require('../models/todo'); // ✅ This points to backend/models/todo.js
+
 
 const app = express();
 app.use(cors());
